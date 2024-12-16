@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>87717622718-isf2n4sonvo8ava0418ffqd0anoaf6ea.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.87717622718-isf2n4sonvo8ava0418ffqd0anoaf6ea</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcZsu1YgeI64_3TKemTRMOmKbHPxSKTgM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>87717622718</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.earoh</string>
+	<key>PROJECT_ID</key>
+	<string>earoh-d90c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>earoh-d90c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:87717622718:ios:8a1512e00173e78f5f3fef</string>
+	<key>DATABASE_URL</key>
+	<string>https://earoh-d90c5-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
